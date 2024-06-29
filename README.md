@@ -45,10 +45,10 @@ I am studying software engineering at Wintec - Waikato Institute of Technology.
 
 ## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=block354&count_private=true" align="center" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=block354&count_private=true" align="left" height="200px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=block354&count_private=true&layout=compact" align="center" height="200px"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=block354&count_private=true&layout=compact" align="left" height="200px"  />
 </a>
 
 <!--
