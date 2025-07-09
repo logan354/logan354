@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Logan
-An IT student studying Software Engineering at Wintec - Waikato Institute of Technology.
+An IT Prospect and a Wintec - Waikato Institute of Technology Alumni
 
 ## Skills
 ### Languages
