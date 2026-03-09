@@ -9,7 +9,7 @@ A music bot for Discord. Turn up the music with Bass! Supports YouTube/Youtube M
 A MetService bot for Discord. Forecasts, warnings & watches, and much more.
 
 ## Skills
-<div
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px">
